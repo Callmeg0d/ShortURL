@@ -22,5 +22,3 @@ class InactiveURLException(UrlsException):
 class ExpiredURLException(UrlsException):
     status_code = status.HTTP_410_GONE
     detail = "URL has expired"
-
-
