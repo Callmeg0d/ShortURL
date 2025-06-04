@@ -4,3 +4,5 @@
 - docker-compose up -d --build
 - Приложение будет доступно по адресу: http://localhost:8000
 - Документация Swagger будет доступна по адресу: http://localhost:8000/docs
+
+Также можно Makefile
